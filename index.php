@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        $print =  'fsfffsdfdfd';
+        $print =  'hello world';
         print $print;
         ?>
     </body>
